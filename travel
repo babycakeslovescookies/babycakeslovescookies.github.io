@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+        <style>
+            h2 {
+                color:rgb(109, 153, 219);
+            }
+            
+            body {
+                background-color:rgb(240, 245, 255                  );
+            }
+            #travel-beach 
+            { background-color:rgb(255, 255, 255);}
+            #basic-info 
+            { background-color:rgb(255, 255, 255);}
+            
+            .top-3 {
+            background-color:rgb(225, 226, 230);
+            }
+       
+        </style>
+    
+        
+    </head>
+    <body>
+    
+        <h1>Travel to the beach!</h1>
+        <h2 id="basic-info">Basic info </h2>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-with-palm-trees.png" alt="beach" width="100">
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png" alt="blue-beach"width="100" height="75">
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach.png" alt="palm-beach"width="120">
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-sunset.png" alt="pink-beach" width="100">
+        
+        <p id="travel-beach">Feeling <strong><em>overwhelmed and burnt out?</em></strong> It might be time to trade your to-do list for the soothing rhythm of ocean waves. Imagine sinking your toes into warm sand, breathing in salty air, and letting the sun melt your stress away. A beach escape isn’t just a break—it’s a reset for your body and mind. Let nature do the healing while you finally exhale. </p>
+        <h3>10 Low-Tourism Beaches Around the world         </h3>
+        
+        <ul> 
+        <li>Playa Matapalo – Costa Rica</li>
+        </ul>
+    
+        <ul>
+        <li>Anse Coco – La Digue, Seychelles</li>
+        </ul>
+        
+        <ul>
+        <li>Aldinga Beach – South Australia</li>
+        </ul>
+        
+        <ul>
+        <li>Praia da Amoreira – Portugal</li>
+        </ul>
+    
+        <ul>
+        <li>Kokkinokastro Beach – Alonissos, Greece
+        </li>
+        </ul>
+        
+        <ul>
+        <li>Sandwood Bay – Scotland</li>
+        </ul>
+        
+        <ul>
+        <li>Ibo Island – Mozambique</li>
+        </ul>
+        
+        <ul>
+        <li>Tonsai Bay – Thailand</li>
+        </ul>
+        
+        <ul>
+        <li>Playa El Cuco – El Salvador</li>
+        </ul>
+        
+        <ul>
+        <li>Tokashiki Island – Okinawa, Japan</li>
+        </ul>
+        
+        <h3>Top 3 Clear Water, Low-Tourism Beaches         </h3>
+        
+        <ol class="top-3">
+        <li> Anse Source d’Argent – La Digue, Seychelles</li            >
+        <li>Tokashiku Beach – Tokashiki Island, Okinawa, Japan</li>
+        <li>Ibo Island Beach – Quirimbas Archipelago, Mozambique</li>
+        </ol>
+        
+        
+        
+        
+    </body>
+</html>
